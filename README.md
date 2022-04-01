@@ -1,5 +1,6 @@
 
 ### Android multi-language（support android O+） [中文](./README_cn.md)
+### 切换部分无法适配解决方式https://blog.csdn.net/a1018875550/article/details/79845949
 support third library  multi-language( if there is a corresponding language resource file) ,in version 2.0.
 
 
